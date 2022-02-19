@@ -1,0 +1,15 @@
+R:\MS VSCode\FirstLecture\Task01\bin\Debug\net6.0\Task01.exe
+R:\MS VSCode\FirstLecture\Task01\bin\Debug\net6.0\Task01.deps.json
+R:\MS VSCode\FirstLecture\Task01\bin\Debug\net6.0\Task01.runtimeconfig.json
+R:\MS VSCode\FirstLecture\Task01\bin\Debug\net6.0\Task01.dll
+R:\MS VSCode\FirstLecture\Task01\bin\Debug\net6.0\Task01.pdb
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.csproj.AssemblyReference.cache
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.AssemblyInfoInputs.cache
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.AssemblyInfo.cs
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.csproj.CoreCompileInputs.cache
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.dll
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\refint\Task01.dll
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.pdb
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\Task01.genruntimeconfig.cache
+R:\MS VSCode\FirstLecture\Task01\obj\Debug\net6.0\ref\Task01.dll
